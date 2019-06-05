@@ -11,21 +11,21 @@ Nowadays, I am working as a **Google Summer of Code** student with **TensorFlow*
 
 
 ## More Information - CV
+###EDUCATION
+Bauman Moscow State Technical University
+MSc in Mechatronics and Robotics
+Current | 2018-2020 | Moscow,Russia
+Cum. GPA: 5.0/5.0
 
-\textbf{MSc in Mechatronics and Robotics}\\
-\location{Current | 2018-2020 | Moscow,Russia \\ Cum. GPA: 5.0/5.0}
+Tishreen University
+BSc in Mechatronics Engineering
+Grad | 2012-2017 | Latakia,Syria
+Cum. GPA: 86.15 / 100
 
-\sectionspace % Some whitespace after the section
-\subsection{Tishreen University}
-\textbf{BSc in Mechatronics Engineering}\\
-\location{Grad | 2012-2017 | Latakia,Syria}
-\location{ Cum. GPA: 86.15 / 100 }
-
-\sectionspace % Some whitespace after the section
-\subsection{NCD}
-\textbf{Best High school in Syria}\\
-\location{Grad. | 2009-2012 | Syria}
-\location{ Cum. GPA: 94 / 100 , ranked 2nd}
+Natioanl Center for the Distinguished
+Best High school in Syria
+Grad. | 2009-2012 | Syria
+Cum. GPA: 94 / 100 , ranked 2nd
 
 
 ### Contact me
