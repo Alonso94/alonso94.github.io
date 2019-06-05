@@ -1,6 +1,0 @@
----
-layout: post
-title: GSoC - a new perspective
-published: true
----
-
